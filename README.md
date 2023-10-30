@@ -6,8 +6,8 @@ Este é um projeto exemplo que demonstra a criação de uma API com métodos CRU
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
-- [Sua Linguagem/Plataforma de Escolha] ([Link para Instalação](#))
-- [Banco de Dados de Sua Escolha] ([Link para Instalação](#))
+- [Sua Linguagem/Plataforma de Escolha] 
+- [Banco de Dados de Sua Escolha] 
 
 ## Configuração
 
